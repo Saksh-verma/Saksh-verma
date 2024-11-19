@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm <h1 style="color:orange;">Sakshi Verma</h1>
+# 👋 Hello, World! I'm <span style="color:orange;">Sakshi Verma</span>
 👩🏻‍💻 I'm a fresh BCA graduate, passionate about front-end development.<br/>
 📽️ Part-time Video Editor<br/>
 💡 Problem Solver.<br/>
