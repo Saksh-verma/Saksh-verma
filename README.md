@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm $$\color{orange}{Sakshi " " Verma}$$
+# 👋 Hello, World! I'm $$\color{orange}{Sakshi Verma}$$
 
 👩🏻‍💻 I'm a fresh BCA graduate, passionate about front-end development.<br/>
 📽️ Part-time Video Editor<br/>
