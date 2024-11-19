@@ -1,4 +1,4 @@
-# 👋 Hello, World! <h1>I'm Sakshi Verma</h1>
+# 👋 Hello, World! I'm Sakshi Verma
 
 👩🏻‍💻 I'm a fresh BCA graduate, passionate about front-end development.<br/>
 📽️ Part-time Video Editor<br/>
