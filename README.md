@@ -1,12 +1,16 @@
-# 👋 Hello, World! I'm Sakshi Verma
+👋 Hello, World! I'm Sakshi Verma
 
-👩🏻‍💻 I'm a fresh BCA graduate, passionate about front-end development.<br/>
-📽️ Part-time Video Editor<br/>
-💡 Problem Solver.<br/>
-💭 I am deepening my knowledge in backend development while honing my frontend skills.<br/>
+🎓 MCA Final-Year Student at IMS Ghaziabad.
+💻 Aspiring Software Developer passionate about Web Development.
+🌐 Building interactive and responsive web applications.
+⚙️ Exploring backend development and strengthening my Java programming skills.
+🚀 Learning by building projects and continuously improving my technical skills.
+🎬 Part-time Video Editor with an eye for creativity and detail.
+💡 Curious learner, problem solver, and always ready to explore new technologies.
 
-Feel free to connect via email at "vermasakshi1011@gmail.com." Let's collaborate and create something amazing! 😊🚀
+📫 Let's connect: vermasakshi1011@gmail.com
 
+✨ Always learning, always building, and always growing!
 # 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
