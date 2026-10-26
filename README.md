@@ -1,14 +1,14 @@
-👋 Hello, World! I'm Sakshi Verma
+# 👋 Hello, World! I'm Sakshi Verma
 
-🎓 MCA Final-Year Student at IMS Ghaziabad.
-💻 Aspiring Software Developer passionate about Web Development.
-🌐 Building interactive and responsive web applications.
-⚙️ Exploring backend development and strengthening my Java programming skills.
-🚀 Learning by building projects and continuously improving my technical skills.
-🎬 Part-time Video Editor with an eye for creativity and detail.
-💡 Curious learner, problem solver, and always ready to explore new technologies.
+🎓 MCA Final-Year Student at IMS Ghaziabad.<br/>
+💻 Aspiring Software Developer passionate about Web Development.<br/>
+🌐 Building interactive and responsive web applications.<br/>
+⚙️ Exploring backend development and strengthening my Java programming skills.<br/>
+🚀 Learning by building projects and continuously improving my technical skills.<br/>
+🎬 Part-time Video Editor with an eye for creativity and detail.<br/>
+💡 Curious learner, problem solver, and always ready to explore new technologies.<br/>
 
-📫 Let's connect: vermasakshi1011@gmail.com
+📫 **Let's connect:** [vermasakshi1011@gmail.com](mailto:vermasakshi1011@gmail.com)
 
 ✨ Always learning, always building, and always growing!
 # 💻 Tech Stack
